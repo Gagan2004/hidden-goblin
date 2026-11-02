@@ -6,3 +6,7 @@ __pycache__/
 .env
 .env.local
 
+# Scraped raw HTML dumps
+scripts_and_scraping/**/*.html
+scripts_and_scraping/*.html
+
