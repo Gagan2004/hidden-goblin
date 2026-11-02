@@ -9,4 +9,4 @@ __pycache__/
 # Scraped raw HTML dumps
 scripts_and_scraping/**/*.html
 scripts_and_scraping/*.html
-
+screenshots
