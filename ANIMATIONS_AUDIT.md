@@ -63,6 +63,7 @@ This document catalogs all animations present in the original production website
 | 31 | `tp-ear-twitch` | `.tp-basket__pup [data-p=earR]` | Basket puppy ear twitch | Right ear twitches at 2.2s offset | ⚠️ Buggy | Restore via `:not([data-live])` |
 | 32 | `PupJourney` | Mascot scroll tracking | Scroll along multi-scene path | Puppy travels, faces direction, wags, reacts, looks at elements | ✅ Present | Verified |
 | 33 | `PupBubble` | `.pup-bubble` | Mascot speech events | Bouncy spring speech bubble with 12+ contextual phrases | ✅ Present | Verified |
+| 33b | Airplane Flight Curve | `.tp-flight g` | Scroll through "Imported for you" section | Airplane follows bezier path from Korea to Dubai with tangent rotation & Maltipoo in porthole | ✅ Present | Verified |
 
 ---
 
