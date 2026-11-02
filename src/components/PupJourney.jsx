@@ -1490,10 +1490,8 @@ export default function PupJourney() {
 
       window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    if (prefersReducedMotion || window.innerWidth < 1024) {
-
+    if (prefersReducedMotion) {
       return;
-
     }
 
 
